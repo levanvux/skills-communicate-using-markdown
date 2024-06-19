@@ -12,5 +12,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ```javascript
 var myVar = "Victor";
-console.log(`My var name is`, myVar);
+console.log("My var name is", myVar);
 ```
+
