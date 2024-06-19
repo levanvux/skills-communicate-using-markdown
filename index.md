@@ -15,3 +15,5 @@ var myVar = "Victor";
 console.log("My var name is", myVar);
 ```
 
+- [x] Hello World
+- [ ] Hard Web Project
